@@ -1,0 +1,45 @@
+                      cart project resource
+   ------------[simple ecomarce project add to cart]---------------->
+
+
+1-------->. collect backend documents https://documenter.getpostman.com/view/9518923/2s946k6W8p
+
+2-------->.Discover back end data flow
+
+
+3-------->. create new stand alon front end project
+
+4-------->.install front end packages===>
+  >--------> = Axios
+  >--------> = React hot toast
+  >--------> = Bootstrap
+  >--------> = React-Bootstrap
+  >--------> = Bootstrap-icons
+  >--------> = React-Router-dom
+
+5-------->.project structure ready
+
+
+
+6----------> initial Route
+
+
+7----------> masterLayout
+
+
+8----------> 404 set
+
+
+
+9----------> conditional protect route
+
+
+10----------> dynamic product list
+
+11----------> render product lis
+
+
+
+
+
+

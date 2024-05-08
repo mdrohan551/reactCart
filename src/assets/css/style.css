@@ -1,0 +1,36 @@
+.notfound{
+   animation: Notfund .1s infinite alternate ease-in-out !important; 
+}
+
+@keyframes Notfund {
+    from{
+
+        color: rgb(255, 8, 8);
+
+    }
+
+    to{
+
+        color: rgb(0, 0, 0);
+    }
+}
+.LoginForm{
+    padding-top: 250px;
+}
+.buttoncard{
+    transition: all linear .3s !important;
+}
+.buttoncard p{
+    padding-left: 30px;
+    transition: all ease-in-out .3s;
+    margin-top: 15px !important;
+}
+.buttoncard:hover{
+background: rgb(3, 148, 41);
+color: aliceblue;
+}
+
+
+.cartIcons  svg {
+    transition: all ease-in-out .3s;
+}
